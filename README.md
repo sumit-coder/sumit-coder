@@ -2,9 +2,9 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" />
 
-<img  width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical" />
+<!-- <img  width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical" /> -->
 
-<!-- <img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder&layout=compact" /> -->
+<img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder&layout=compact&theme=radical" />
 
 
 #### Known Tech
