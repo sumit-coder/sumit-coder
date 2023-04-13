@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/sumit-coder/count.svg)
+
+
 <!--
 **sumit-coder/sumit-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
