@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder&layout=compact" />
+
+
+<img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+
+<img  src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /><br>
+
+
 
 ![Visitor Count](https://profile-counter.glitch.me/sumit-coder/count.svg)
                 
