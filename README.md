@@ -1,9 +1,9 @@
 ### Hi there 👋, This is Sumit Panwar 👨‍💻
 
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" />
+<img align="left" width="45%" height="200" src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" />
 <!-- <img  width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical" /> -->
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder&layout=compact&theme=radical&langs_count=6" />
+<img height="200" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder&layout=compact&theme=radical&langs_count=6" />
 
 
 #### Known Tech
