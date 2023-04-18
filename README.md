@@ -1,9 +1,12 @@
 ### Hi there 👋, This is Sumit Panwar 👨‍💻
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" />
-<!-- <img  width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical" /> -->
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=sumit-coder&theme=radical&date_format=%5BY%20%5DM%20j" />
 
 <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder&layout=compact&theme=radical&langs_count=6" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumit-coder&theme=radical&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=sumit-coder&theme=radical)](https://git.io/streak-stats) -->
 
 
 #### Known Tech
