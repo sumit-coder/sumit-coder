@@ -1,7 +1,6 @@
 ### Hi there 👋, This is Sumit Panwar 👨‍💻
 
-<img width="47%" align="left"  src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" />
-<img  height="198" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-coder&theme=radical&date_format=%5BY%20%5DM%20j" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" />
 
 <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder&layout=compact&theme=radical&langs_count=6" />
 
