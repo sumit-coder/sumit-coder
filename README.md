@@ -4,9 +4,8 @@
 
 <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder&layout=compact&theme=radical&langs_count=6" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumit-coder&theme=radical&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=sumit-coder&theme=radical)](https://git.io/streak-stats) -->
-
+<img width="464" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-coder&theme=radical&date_format=%5BY%20%5DM%20j&card_width=487" />
+<!-- <img src="https://metrics.lecoq.io/sumit-coder" /> -->
 
 #### Known Tech
 <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
