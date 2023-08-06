@@ -1,4 +1,4 @@
-### Hi there 👋, This is Sumit Panwar 👨‍💻
+### Hi there 👋, This is Sumit 👨‍💻
 
  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" /> 
 
