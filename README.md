@@ -4,7 +4,7 @@
 
 <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder&layout=compact&theme=radical&langs_count=6" /> 
 
-<!-- <img width="464" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-coder&theme=radical&date_format=%5BY%20%5DM%20j&card_width=487" /> -->
+<img width="464" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-coder&theme=radical&date_format=%5BY%20%5DM%20j&card_width=487" /> 
 <!-- <img src="https://metrics.lecoq.io/sumit-coder" /> -->
 
 #### Known Tech
