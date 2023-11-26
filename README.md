@@ -1,6 +1,6 @@
 ![bg-sumit-coder](https://github.com/sumit-coder/sumit-coder/assets/55745378/5ac006d7-a6e3-4c4a-bf0c-7969101b1c6f)
 
-<kbd><img align="left" src="https://github.com/sumit-coder/sumit-coder/assets/55745378/5ac006d7-a6e3-4c4a-bf0c-7969101b1c6f" /> </kbd>
+<!--- <kbd><img align="left" src="https://github.com/sumit-coder/sumit-coder/assets/55745378/5ac006d7-a6e3-4c4a-bf0c-7969101b1c6f" /> </kbd> -->
 
 ### Hi there 👋, This is Sumit 👨‍💻
 
