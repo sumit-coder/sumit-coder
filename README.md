@@ -1,5 +1,6 @@
-### Hi there 👋, This is Sumit 👨‍💻
 ![bg-sumit-coder](https://github.com/sumit-coder/sumit-coder/assets/55745378/5ac006d7-a6e3-4c4a-bf0c-7969101b1c6f)
+
+### Hi there 👋, This is Sumit 👨‍💻
 
  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" /> 
 
