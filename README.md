@@ -1,11 +1,12 @@
 ### Hi there 👋, This is Sumit 👨‍💻
+![bg-sumit-coder](https://github.com/sumit-coder/sumit-coder/assets/55745378/5ac006d7-a6e3-4c4a-bf0c-7969101b1c6f)
 
  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" /> 
 
 <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-coder&layout=compact&theme=radical&langs_count=6" /> 
 
 <img width="464" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-coder&theme=radical&date_format=%5BY%20%5DM%20j&card_width=487" /> 
-<!-- <img src="https://metrics.lecoq.io/sumit-coder" /> -->
+
 
 #### Known Tech
 <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
