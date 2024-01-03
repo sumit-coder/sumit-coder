@@ -4,6 +4,9 @@
 
 ### Hi there 👋, This is Sumit 👨‍💻
 
+I'm a self-taught software developer driven by a relentless passion for creating cutting-edge solutions. My journey in the tech world includes successfully developing and launching quiz applications on the Play Store, amassing over 150,000 users globally and achieving notable profitability.
+
+Currently, I am intensively engaged in mastering Data Structures and Algorithms using Python, Java, and C++. Keen on contributing to open-source projects, I am committed to staying on the forefront of technological advancements. 
  
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=sumit-coder&show_icons=true&theme=radical&count_private=true" /> 
 
