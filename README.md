@@ -13,7 +13,7 @@
 <img width="464" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-coder&theme=radical&date_format=%5BY%20%5DM%20j&card_width=487" /> 
 
 
-<img width="464" src="https://leetcard.jacoblin.cool/sumit-coder?theme=nord&font=Roboto&ext=heatmap" /> 
+<img width="464" src="https://leetcard.jacoblin.cool/sumit-coder?theme=dark&font=Roboto&ext=heatmap" /> 
 
 
 #### Known Tech
