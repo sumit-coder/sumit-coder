@@ -13,6 +13,9 @@
 <img width="464" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-coder&theme=radical&date_format=%5BY%20%5DM%20j&card_width=487" /> 
 
 
+<img width="464" src="https://leetcard.jacoblin.cool/sumit-coder?theme=nord&font=Roboto&ext=heatmap" /> 
+
+
 #### Known Tech
 <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
